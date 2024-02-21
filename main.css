@@ -1,0 +1,18 @@
+body{
+    background-color: lightblue;
+    color: maroon;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+main {
+    background-color: yellow;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+footer{
+    background-color: cyan;
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
