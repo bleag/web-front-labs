@@ -16,6 +16,10 @@ footer{
     color: brown;
     font-family: Arial, Helvetica, sans-serif;
     margin: 0px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
 }
 
 a{
@@ -45,8 +49,8 @@ a:visited{
 }
 */
 div.menu{
-    border: 8px solid;
-    border-radius: 10px;
+    border: 5px solid;
+    border-radius: 20px;
     width: 300px;
     color: blueviolet;
     margin: 0 auto;
